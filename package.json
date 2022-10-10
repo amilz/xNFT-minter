@@ -14,7 +14,8 @@
     "@coral-xyz/xnft-cli": "latest"
   },
   "dependencies": {
-    "react-xnft": "latest",
-    "react": "^17.0.2"
+    "@solana/web3.js": "^1.63.1",
+    "react": "^17.0.2",
+    "react-xnft": "latest"
   }
 }
